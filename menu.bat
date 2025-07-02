@@ -1,3 +1,6 @@
+rem batch file menu
+rem by:marduk191
+
 @echo off
 setlocal enabledelayedexpansion
 color 0A
